@@ -15,7 +15,7 @@ In addition, you will need the following modules installed in your environment:
 <br/>
 You can install all of these with pip.<br/><br/>
 I've never had an issue, but it is a good idea to use a VPN when running these. This will ensure:<br/>
-- Your IP doesn't get blocked by any site<br/>
+- Your regular IP doesn't get blocked by any site<br/>
 - You have some protection from any malicious sites you may mistakenly add to the list
 <br/><br/>
 Make sure that the browser doesn't launch with you logged into any social medias which may block your account such as LinkedIn.

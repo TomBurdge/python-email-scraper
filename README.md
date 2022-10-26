@@ -12,7 +12,13 @@ In addition, you will need the following modules installed in your environment:
 - Pandas
 - Selenium
 - Pyisemail
-You can isntall all of these with pip.
+You can isntall all of these with pip.<br/>
+<br/>
+I've never had an issue, but it is a good idea to use a VPN when running these. This will ensure
+1. Your IP doesn't get blocked by any site
+2. You have some protection from any malicious sites you may mistakenly add to the list
+Make sure that the browser doesn't launch with you logged into any social medias which may block your account such as LinkedIn.
+You can check this by running the first 28 lines and followed by: browser.open_page("RELEVANT SITE URL SUCH AS LINKEDIN")
 
 <h2>Chrome Driver</h2>
 This project has been built to run on Chrome version 106.0.5249.119 and Windows 

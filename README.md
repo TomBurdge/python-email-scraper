@@ -18,7 +18,7 @@ I've never had an issue, but it is a good idea to use a VPN when running the fil
 - Your regular IP doesn't get blocked by any site<br/>
 - You have some protection from any malicious sites you may mistakenly add to the list
 <br/><br/>
-Make sure that the browser doesn't launch with you logged into any social medias which may block your account such as LinkedIn.
+Make sure that the browser doesn't launch with you logged into any social medias which may block your account if you mistakenly add them to the list, such as LinkedIn.
 You can check this by running the first 28 lines and followed by: browser.open_page("RELEVANT SITE URL SUCH AS LINKEDIN")
 
 <h2>Chrome Driver</h2>

@@ -1,6 +1,7 @@
 <h1>Python Email Scraper</h1>
 A python file which uses selenium to scrape email adresses from sites in a list. Saves the scraped emails to a CSV called "emails"
 
+
 When using the file, you need to add your list manually. 
 You could also modify the file to read the column a csv quite easily. (With pandas, read a column; I often follow this process but have left it out for simplicity.)
 

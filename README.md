@@ -25,5 +25,5 @@ You can check this by running the first 28 lines and followed by: browser.open_p
 This project has been built to run on Chrome version 106.0.5249.119 and Windows 
 If you have an earlier version of chrome, you should update it.
 If you have a later version of chrome, or a different operating system, you can clone this repository and add the appropriate chrome driver .exe for your version to the "drivers" folder.
-If you need to change the chromedriver, you can find the appropriate chrome driver here:
+If you need to update the chromedriver, you can find the appropriate chrome driver here:
 https://chromedriver.chromium.org/downloads

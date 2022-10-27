@@ -2,7 +2,7 @@
 A python file which uses selenium to scrape email adresses from sites that you specify. Saves the scraped emails to a CSV called "emails".
 <br/>
 <br/>
-When using the file, you need to add a list of the sites that you want to access on the XX line.<br/>
+When using the file, you need to add a list of the sites that you want to access on the ninth line.<br/>
 You could also modify the file to read the column of a csv quite easily with pandas. I often follow this process but have left it out for simplicity.
 
 <h2>Requirements</h2>

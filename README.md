@@ -19,7 +19,7 @@ I've never had an issue, but it is a good idea to use a VPN when running the fil
 - You have some protection from any malicious sites you may mistakenly add to the list
 <br/><br/>
 Make sure that the browser doesn't launch with you logged into any social medias which may block your account if you mistakenly add them to the list, such as LinkedIn.
-You can check this by running the first 28 lines followed by: browser.open_page("RELEVANT SITE URL SUCH AS LINKEDIN")
+You can check this by running the first 28 lines followed by: browser.open_page("relevant site url")
 
 <h2>Chrome Driver</h2>
 This project has been built to run on Chrome version 106.0.5249.119 and Windows 

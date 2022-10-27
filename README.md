@@ -22,7 +22,7 @@ Make sure that the browser doesn't launch with you logged into any social medias
 You can check this by running the first 28 lines followed by: browser.open_page("relevant site url")
 
 <h2>Chrome Driver</h2>
-This project has been built to run on Chrome version 106.0.5249.119 and Windows 
+This project has been built to run on Chrome version 106.0.5249.119 and Windows 10 Enterprise 10.0.19044.
 If you have an earlier version of chrome, you should update it.
 If you have a later version of chrome, or a different operating system, you can clone this repository and add the appropriate chrome driver .exe for your version to the "drivers" folder.
 If you need to update the chromedriver, you can find the appropriate chrome driver here:

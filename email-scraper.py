@@ -6,7 +6,7 @@ import re
 import random as rd
 from pyisemail import is_email
 
-site_list = ["ENTER YOUR EMAILS HERE"]
+site_list = ["ENTER YOUR SITES HERE"]
 
 class Browser:
     browser, service = None, None
